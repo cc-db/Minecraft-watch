@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Michael",
+    "longName": "Minecraft",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Minecraft",
+    "uuid": "37084d1a-6dd6-4c82-b2a3-377b94389024",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
